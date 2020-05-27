@@ -5,4 +5,5 @@
  Od roku mieszkam w Warszawie. 
 Mam licencjat z Filologii angielskiej i w tym roku będę bronił swoją pracę magisterską.</p1>
 <p2>Dopiero zaczynam przygodę z programowaniem ale mam nadzieję, że to moja droga do sukcesu</p2>
+<p3>Wish me luck</p3>
 </html>
